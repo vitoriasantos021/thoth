@@ -1,0 +1,20 @@
+.div-texto{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.opcao{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   padding: 1.5%;
+}
+
+.opcao small{
+   margin-right: 1%;
+}
+
+.opcao button{
+   width: 80%;
+ }

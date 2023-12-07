@@ -1,0 +1,47 @@
+.container-home{
+    width: 100%;
+    height: 100vh;
+    background-color:#ddb5cb;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-direction: column;
+}
+
+.div-titulos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.div-options{
+    display: flex;
+    width: 100%;
+    margin-top: 10%;
+}
+
+.div-portugues{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: #fff;
+}
+
+.div-voltar-home{
+    width: 90%;
+    display: flex ;
+    padding: 1%;
+    justify-content: space-between;
+}
+
+
+.div-link{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #ddb5cb;
+}

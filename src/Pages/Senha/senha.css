@@ -1,0 +1,70 @@
+.container-senha {
+    width: 100%;
+    height: 100vh;
+    background-color:#ddb5cb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+  }
+
+  .div-senha{
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .container-senha p{
+   color:rgb(184, 59, 125);
+  }
+
+
+
+    @media (max-width: 3020px){
+
+      .container-senha {
+        width: 100%;
+        height: 100vh;
+        background-color:#ddb5cb;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        
+      }
+  }
+
+
+
+@media (max-width: 1024px){
+  .div-senha{
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+}
+
+  
+@media (max-width: 768px){
+
+ 
+
+}
+
+  
+@media (max-width: 520px){
+
+  .div-senha{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+}

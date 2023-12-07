@@ -1,0 +1,51 @@
+.container-opcao{
+    width: 100%;
+    height: 100vh;
+    background-color:#ddb5cb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.div-voltar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.div-voltar p{
+   font-weight: bolder;
+}
+
+
+.div-titulo{
+    margin-bottom: 1%;
+}
+  
+.container-opcao{
+   color:#b83b7d;
+}
+
+.div-itens{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.div-itens h1{
+   color: #fff;
+   font-size: 40px;
+    
+}
+
+
+.btn-nivel:hover{
+    background-color: transparent;
+}
+
+.btn-nivel h1{
+    width: 130px;
+    margin-right: 1%;
+} 

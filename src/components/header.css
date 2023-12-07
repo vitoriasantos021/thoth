@@ -1,0 +1,28 @@
+.container-header{
+    width: 100%;
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #fdfdfd;
+}
+
+.div-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.div-header{
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-weight: bolder;
+    font-family: sans-serif;
+    /* background-color: blueviolet; */
+
+}
+
+
